@@ -1,2 +1,2 @@
-# bedrantirak.github.io
+[bedrantirak.github.io](https://bedrantirak.github.io/)
 
