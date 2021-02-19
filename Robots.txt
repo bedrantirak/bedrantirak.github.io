@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://webolsa.com/sitemap.xml
