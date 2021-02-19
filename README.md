@@ -1,1 +1,2 @@
-# webolsa.com
+[bedrantirak.github.io](https://bedrantirak.github.io/)
+
